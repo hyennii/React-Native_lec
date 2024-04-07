@@ -8,3 +8,5 @@
 - node.js 와 npm 설치
 
 - 터미널 -> npm install --global expo-cli -> 맥 사용자라면 watchman 설치. brew install watchman -> 다운 후 app store에서 expo 앱 다운
+
+- 터미널 -> npx create-expo-app 앱이름 -> vscode의 터미널에서 cd 앱이름
