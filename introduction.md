@@ -9,4 +9,6 @@
 
 - 터미널 -> npm install --global expo-cli -> 맥 사용자라면 watchman 설치. brew install watchman -> 다운 후 app store에서 expo 앱 다운
 
-- 터미널 -> npx create-expo-app 앱이름 -> vscode에서 오픈
+- 터미널 -> npx create-expo-app 앱이름 -> vscode에서 오픈 -> vscode 터미널에서 npm start
+  
+- 우선 로그인하기 (npm 닫고) 터미널에서 npx expo login -> 계정/비밀번호 입력 -> npm start -> expo앱 켜서 확인 가능(같은 네트워크환경 사용) -> App.js 파일 노출 확인가능
